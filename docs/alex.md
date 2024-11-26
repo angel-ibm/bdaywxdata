@@ -1,5 +1,8 @@
+# Command Guide
 
-# 4.2. Accessing the watsonx.data Environment
+Die folgenden Befehle erleichtert die Durchführung von den Übungen. Die Abschnitt- und Seitennummer beziehen sich auf den Sektionen der [Dokumentation von watsonx.data Lab ](http://ibm.biz/wxd-lab)
+
+## 4.2. Accessing the watsonx.data Environment
 **Page | 13**
 ```bash
 ssh -p 99999 watsonx@geo.services.cloud.techzone.ibm.com
@@ -13,7 +16,7 @@ This command is used to switch to the root user with superuser privileges.
 sudo su -
 ```
 
-# 4.5.1   Stopping watsonx.data
+## 4.5.1   Stopping watsonx.data
 **Page | 20**
 ```bash
 sudo su -
@@ -24,7 +27,7 @@ cd /root/ibm-lh-dev/bin
 ./status --all
 ```
 
-# 4.5.2. Starting watsonx.data
+## 4.5.2. Starting watsonx.data
 **Page | 21**
 ```bash
 export LH_RUN_MODE=diag
@@ -32,7 +35,7 @@ export LH_RUN_MODE=diag
 ./status --all
 ```
 
-# 5.1.6 Starting the watsonx.data User Interface
+## 5.1.6 Starting the watsonx.data User Interface
 **Page | 25**
 **Username:**
 ```bash
@@ -43,7 +46,7 @@ ibmlhadmin
 password
 ```
 
-# 5.3.11 Download the sample cars.csv file to your desktop
+## 5.3.11 Download the sample cars.csv file to your desktop
 The Create table from file workflow allows you to upload a small (maximum 2 MB file size) .csv,
 .parquet, .json, or .txt file to define and populate a new table.
 [Download cars.csv](https://github.com/angel-ibm/bdaywxdata/raw/main/cars.csv)
@@ -56,7 +59,7 @@ The Create table from file workflow allows you to upload a small (maximum 2 MB f
 **Data format version:** Parquet v1
 
 
-# 5.4.2 Query Workspace Page
+## 5.4.2 Query Workspace Page
 Copy and paste the following text into the SQL worksheet. Note that the table you are about
 to query is identified by a 3-part name that includes the catalog, schema, and table name.
 Click Run on presto-01.
@@ -65,7 +68,7 @@ Click Run on presto-01.
 select car, avg(mpg) as avg_mpg from iceberg_data.my_schema.cars group by car order by car;
 ```
 
-# 5.6.2 Access Control Page
+## 5.6.2 Access Control Page
 Open a terminal command window to the watsonx.data server as the root user (remember to
 use the sudo command to become the root user
 **Page | 56**
@@ -73,7 +76,7 @@ use the sudo command to become the root user
 /root/ibm-lh-dev/bin/user-mgmt add-user user1 User password1
 ```
 
-# 6.1.2 Presto Command Line Interface (CLI)
+## 6.1.2 Presto Command Line Interface (CLI)
 **Page | 64**
 ```bash
 cd /root/ibm-lh-dev/bin
@@ -81,27 +84,27 @@ cd /root/ibm-lh-dev/bin
 ```
 **Page | 65**
 ```sql
-# Show the catalogs available in the system.
+## Show the catalogs available in the system.
 show catalogs;
 ```
 **Page | 65**
 ```sql
-# Query the customer table in the tpch catalog.
+## Query the customer table in the tpch catalog.
 select count(*) from tpch.tiny.customer;
 ```
 **Page | 65**
 ```sql
-# Show the schemas available in the tpch catalog.
+## Show the schemas available in the tpch catalog.
 show schemas in tpch;
 ```
 **Page | 66**
 ```sql
-# Use the tpch.tiny schema.
+## Use the tpch.tiny schema.
 use tpch.tiny;
 ```
 **Page | 66**
 ```sql
-# Query the customer table in the tpch.tiny schema.
+## Query the customer table in the tpch.tiny schema.
 select count(*) from customer;
 ```
 **Page | 66**
@@ -149,7 +152,7 @@ show tables;
 quit;
 ```
 
-# 7.2. Exploring MinIO Object Storage
+## 7.2. Exploring MinIO Object Storage
 **Page | 75**
 ```bash
 docker exec ibm-lh-presto printenv | grep LH_S3_ACCESS_KEY | sed's/.*=//'
@@ -159,7 +162,7 @@ docker exec ibm-lh-presto printenv | grep LH_S3_ACCESS_KEY | sed's/.*=//'
 docker exec ibm-lh-presto printenv | grep LH_S3_SECRET_KEY | sed 's/.*=//'
 ```
 
-# 8.8 Data Ingestion
+## 8.8 Data Ingestion
 **Page | 79**
 You can download the `aircraft.parquet` file from the following URL:
 
@@ -188,7 +191,7 @@ select count(*) from hive_data.myschema2.aircraft;
 quit;
 ```
 
-# 9.4 Federated Queries
+## 9.4 Federated Queries
 **Page | 86**
 
 - **Display name**: `Db2DW`
@@ -282,7 +285,7 @@ between '1700' and '5730')
 order by org_code;
 ```
 
-# 10 Offloading Data from a Data Warehouse
+## 10 Offloading Data from a Data Warehouse
 **Page | 98**
 ```bash
 iceberg_data
@@ -290,13 +293,13 @@ iceberg_data
 ```bash
 wxgosalesdw
 ```
-# 10.6
+## 10.6 SQL
 **Page | 99**
 ```sql
 create table iceberg_data.wxgosalesdw.sls_sales_fact as select * from db2catalog.gosalesdw.sls_sales_fact;
 ```
 
-# 10.7 Federated Queries
+## 10.7 Federated Queries
 **Page | 100**
 ```sql
 select pll.product_line_en as product,
@@ -312,7 +315,7 @@ group by pll.product_line_en
 order by product;
 ```
 
-# 11.1.2 Table Rollback
+## 11.1.2 Table Rollback
 **Page | 101**
 ```sql
 create table iceberg_data.my_schema.airport_id
@@ -337,7 +340,7 @@ select * from iceberg_data.my_schema.airport_id where code = 10000;
 select count(*) from iceberg_data.my_schema.airport_id;
 ```
 
-# 11.2.2 Time Travel Queries
+## 11.2.2 Time Travel Queries
 **Page | 105**
 ```sql
 create table iceberg_data.my_schema.ttqtable (id int, name char(10));
@@ -361,7 +364,7 @@ insert into iceberg_data.my_schema.ttqtable values (7, 'Headphones'), (8, 'Micro
 select * from iceberg_data.my_schema."ttqtable$snapshots" order by committed_at;
 ```
 
-# 11.2.10 Time Travel Queries
+## 11.2.10 Time Travel Queries
 **Page | 109**
 ```sql
 select * from iceberg_data.my_schema.ttqtable for version as of 'Transaction1SnapshotID' order by id;
