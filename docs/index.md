@@ -1,4 +1,4 @@
-# **DACH watsonx.data Partner Roadshow**
+# **DACH watsonx.data Partner Badge Days**
 
 ![banner](./media/Watson%20X_Banner.jpg)
 
