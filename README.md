@@ -1,5 +1,6 @@
-# wxdpe
-watsonx.data partner enablement
+# Repo bdaywxdata
+
+watsonx.data Badge Days
 
 mkdocs documentation:
-<https://angel-ibm.github.io/wsdpe>
+https://angel-ibm.github.io/bdaywxdata
