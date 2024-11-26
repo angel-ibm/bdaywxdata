@@ -7,6 +7,7 @@ site_author: "Angel Gonzalez"
 nav:
   - ' ': ' ' # blank line
   - Start: 'index.md'
+  - Guide: 'alex.md'
   # - Tag 1:
   #   - Foreword: 'int.md'
   #   - Fundamentals: 'fun.md'
@@ -122,4 +123,4 @@ extra:
       link: https://www.linkedin.com/in/angelgonz/
 
 
-copyright: Copyright &copy; 2023 Angel Gonzalez  - IBM Germany
+copyright: Copyright &copy; 2024 Angel Gonzalez  - IBM Germany
