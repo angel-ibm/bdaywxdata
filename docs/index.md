@@ -37,7 +37,7 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 - Kurze Einführung (~30 Minuten): Wir werden  eine Einführung in watsonx.data geben, was es ist und wofür es verwendet wird (Use Cases).
 - Live-Demo (~10 Minuten): Anschließend zeige ich in einer Live-Demo, wie man sich in der UI von watsonx.ai zurechfindet.
 - Version 2.0.2: Wir verwenden Version 2.0.2, da diese zur Level 3 Anleitung passt, obwohl bereits eine neuere Version verfügbar ist.
-- Eigenständiges Arbeiten (~1 Stunde): Danach folgt ihr der Lab-Anleitung selbstständig (meist Copy & Paste) und lest/versteht die Inhalte. IBM 
+- Eigenständiges Arbeiten (~1 Stunde): Danach folgt ihr der Lab-Anleitung selbstständig (meist Copy & Paste) und lest/versteht die Inhalte. IBM
 - Offene Diskussion (~30-60 Minuten): Wir haben dann eine offene Diskussion, falls noch Fragen bestehen.
 - Badge (~10 Minuten): Abschließend könnt ihr euch den Badge verdienen: Level 3 Badge. (4 Fragen)
 
