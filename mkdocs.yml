@@ -58,6 +58,7 @@ theme:
 plugins:
   - search
   - inline-svg
+  - open-in-new-tab
   - mkdocs-jupyter:
       ignore_h1_titles: True
   - table-reader
