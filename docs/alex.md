@@ -1,6 +1,6 @@
 # Command Guide
 
-Die folgenden Befehle erleichtert die Durchführung von den Übungen. Die Abschnitt- und Seitennummer beziehen sich auf den Sektionen der [Dokumentation von watsonx.data Lab ](http://ibm.biz/wxd-lab)
+Die folgenden Befehle erleichtert die Durchführung von den Übungen. Die Abschnitt- und Seitennummer beziehen sich auf den Sektionen der [Dokumentation von watsonx.data Lab ](http://ibm.biz/wxd-lab){:target="_blank"}  
 
 ## 4.2. Accessing the watsonx.data Environment
 **Page | 13**
@@ -49,7 +49,7 @@ password
 ## 5.3.11 Download the sample cars.csv file to your desktop
 The Create table from file workflow allows you to upload a small (maximum 2 MB file size) .csv,
 .parquet, .json, or .txt file to define and populate a new table.
-[Download cars.csv](https://github.com/angel-ibm/bdaywxdata/raw/main/cars.csv)
+[Download cars.csv](https://github.com/angel-ibm/bdaywxdata/raw/main/cars.csv){:target="_blank"}  
 
 **Catalog:** iceberg_data
 **Schema:** my_schema
@@ -166,7 +166,7 @@ docker exec ibm-lh-presto printenv | grep LH_S3_SECRET_KEY | sed 's/.*=//'
 **Page | 79**
 You can download the `aircraft.parquet` file from the following URL:
 
-[Download aircraft.parquet](https://github.com/angel-ibm/bdaywxdata/raw/main/aircraft.parquet)
+[Download aircraft.parquet](https://github.com/angel-ibm/bdaywxdata/raw/main/aircraft.parquet){:target="_blank"}  
 
 **Page | 82**
 ```bash

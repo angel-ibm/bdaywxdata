@@ -55,7 +55,7 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 
 Das ist ein tieferer Einblick in watsonx.data
 
-[Präsentation - PDF Datei](./media/wxdatabadgedays.pdf)  
+[Präsentation - PDF Datei](./media/wxdatabadgedays.pdf){:target="_blank"}  
 
 Vorschau der Präsentation:
 
