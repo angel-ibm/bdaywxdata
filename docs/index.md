@@ -6,17 +6,20 @@ Herzlich Willkommen zu unserem watsonx.data BadgeDays Workshop
 
 Zur Vorbereitung auf unseren Workshop am 5.Dez.2024 bitten wir euch, die folgenden Schritte im Voraus zu erledigen, um einen reibungslosen und produktiven Ablauf sicherzustellen:
 
+## Vorbereitung vor dem Kurs
+
+- Link zum L3-Badge-Kurs: [IBM watsonx.data for Technical Sales Level 3](https://learn.ibm.com/course/view.php?id=13171)
+
+Bitte schaut euch vor dem Workshop die folgenden Videos vom Kurs an (siehe Screenshot):
+
+- 3-Minuten-Video (*1. Introduction Video*)
+- 11-Minuten-Video (*3. Enablement Video*)
+
+![kurs](./media/kurs.png)
+
 ## Zugangsvoraussetzungen
 
 **IBMid erforderlich:**  Als Partner benötigt Ihr einen gültigen IBMid, um Zugriff auf Seismic und die Techzone zu erhalten. Dieser Zugriff ist notwendig, um die Techzone-Images für das Level 3 Training zu nutzen.
-
-### Wichtige Links
-
-- Your Learning: [Link zur L3 Badge Kurs](https://learn.ibm.com/course/view.php?id=13171)
-- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image)
-- Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab)
-- IBM Seismic: [Link zur Seismic](https://ibm.seismic.com)
-- IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com)
 
 ### Besondere Voraussetzungen  
 
@@ -39,21 +42,21 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 - Version 2.0.2: Wir verwenden Version 2.0.2, da diese zur Level 3 Anleitung passt, obwohl bereits eine neuere Version verfügbar ist.
 - Eigenständiges Arbeiten (~1 Stunde): Danach folgt ihr der Lab-Anleitung selbstständig (meist Copy & Paste) und lest/versteht die Inhalte. IBM
 - Offene Diskussion (~30-60 Minuten): Wir haben dann eine offene Diskussion, falls noch Fragen bestehen.
-- Badge (~10 Minuten): Abschließend könnt ihr euch den Badge verdienen: Level 3 Badge. (4 Fragen)
+- Badge (~10 Minuten): Abschließend könnt ihr euch den Badge verdienen: Level 3 Badge. (5 Fragen)
 
-## Vorbereitung vor dem Kurs
+## Wichtige Links
 
-Bitte schaut euch vor dem Workshop die folgenden Videos vom Kurs an (siehe Screenshot):
+- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image)
+- Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab)
+- IBM Seismic: [Link zur Seismic](https://ibm.seismic.com)
+- IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com)
 
-- 3-Minuten-Video (*1. Introduction Video*)
-- 11-Minuten-Video (*3. Enablement Video*)
+## Präsentation
 
-![kurs](./media/kurs.png)
+Das ist ein tieferer Einblick in watsonx.data
 
-In dieser Präsentation findet Ihr einen tieferen Einblick in watsonx.data:
-
-[Einblick](./wxdatabadgedays.pdf)
+[Präsentation - PDF Datei](./media/wxdatabadgedays.pdf)  
 
 Vorschau der Präsentation:
 
-<iframe width="100%" height="800" src="../wxdatabadgedays.pdf">
+<iframe width="100%" height="800" src="../media/wxdatabadgedays.pdf">
