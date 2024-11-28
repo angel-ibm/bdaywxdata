@@ -57,18 +57,18 @@ theme:
 
 plugins:
   - search
-  - inline-svg
   - open-in-new-tab
+  - inline-svg
   - mkdocs-jupyter:
       ignore_h1_titles: True
   - table-reader
 
 markdown_extensions:
+  - attr_list
   - tables
   - abbr
   - footnotes
   - admonition
-  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

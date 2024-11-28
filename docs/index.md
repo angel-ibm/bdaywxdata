@@ -8,7 +8,7 @@ Zur Vorbereitung auf unseren Workshop am 5.Dez.2024 bitten wir euch, die folgend
 
 ## Vorbereitung vor dem Kurs
 
-- Link zum L3-Badge-Kurs: [IBM watsonx.data for Technical Sales Level 3](https://learn.ibm.com/course/view.php?id=13171)
+- Link zum L3-Badge-Kurs: [IBM watsonx.data for Technical Sales Level 3](https://learn.ibm.com/course/view.php?id=13171){:target="_blank"}
 
 Bitte schaut euch vor dem Workshop die folgenden Videos vom Kurs an (siehe Screenshot):
 
@@ -46,10 +46,10 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 
 ## Wichtige Links
 
-- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image)
-- Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab)
-- IBM Seismic: [Link zur Seismic](https://ibm.seismic.com)
-- IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com)
+- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image){:target="_blank"}
+- Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab){:target="_blank"}
+- IBM Seismic: [Link zur Seismic](https://ibm.seismic.com){:target="_blank"}
+- IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com){:target="_blank"}
 
 ## Präsentation
 
