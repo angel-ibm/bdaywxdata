@@ -59,4 +59,4 @@ Das ist ein tieferer Einblick in watsonx.data
 
 Vorschau der Präsentation:
 
-<iframe width="100%" height="800" src="../media/wxdatabadgedays.pdf">
+<iframe width="100%" height="800" src="./media/wxdatabadgedays.pdf">
