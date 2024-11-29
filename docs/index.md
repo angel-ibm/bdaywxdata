@@ -53,6 +53,7 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 - Passwörter: [VM passwords](https://ibm.github.io/watsonx-data-lab/wxd-reference-passwords/){:target="_blank"}
   
 Andere Links:
+
 - Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image){:target="_blank"}
 - IBM Seismic: [Link zur Seismic](https://ibm.seismic.com){:target="_blank"}
 - IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com){:target="_blank"}
