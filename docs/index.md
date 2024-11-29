@@ -38,14 +38,15 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 ## Ablauf des Workshops
 
 - Kurze Einführung (~30 Minuten): Wir werden  eine Einführung in watsonx.data geben, was es ist und wofür es verwendet wird (Use Cases).
-- Live-Demo (~10 Minuten): Anschließend zeige ich in einer Live-Demo, wie man sich in der UI von watsonx.ai zurechfindet.
-- Version 2.0.2: Wir verwenden Version 2.0.2, da diese zur Level 3 Anleitung passt, obwohl bereits eine neuere Version verfügbar ist.
-- Eigenständiges Arbeiten (~1 Stunde): Danach folgt ihr der Lab-Anleitung selbstständig (meist Copy & Paste) und lest/versteht die Inhalte. IBM
-- Offene Diskussion (~30-60 Minuten): Wir haben dann eine offene Diskussion, falls noch Fragen bestehen.
+- Live-Demo (~10 Minuten): Anschließend zeige ich in einer Live-Demo, wie man sich in der UI von watsonx.data zurechfindet.
+- Version 2.0.2: Wir verwenden Version 2.0.2 .
+- Eigenständiges Arbeiten (~1.5 Stunde): Danach folgt ihr der Lab-Anleitung selbstständig (meist Copy & Paste) und lest/versteht die Inhalte. 
+- Offene Diskussion (~30 Minuten): Wir haben dann eine offene Diskussion, falls noch Fragen bestehen.
 - Badge (~10 Minuten): Abschließend könnt ihr euch den Badge verdienen: Level 3 Badge. (5 Fragen)
 
 ## Wichtige Links
 
+- Workshop Image: [https://ibm.biz/watsonxgeeks](https://techzone.ibm.com/my/workshops/student/673c95c9d48a532cc36d5e93){:target="_blank"}
 - Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image){:target="_blank"}
 - Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab){:target="_blank"}
 - IBM Seismic: [Link zur Seismic](https://ibm.seismic.com){:target="_blank"}
