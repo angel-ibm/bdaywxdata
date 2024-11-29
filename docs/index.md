@@ -49,11 +49,10 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 **Das Wichtigste:** Hier bekommt Ihr ein System, mit dem Ihr die ganze Übungen durchführen könnt (aktiv ab 5.12.2024. Passwort: `ibm4badges`)
 
 - Workshop Image: [https://ibm.biz/watsonxgeeks](https://techzone.ibm.com/my/workshops/student/673c95c9d48a532cc36d5e93){:target="_blank"}
-
-Andere Links:
-
-- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image){:target="_blank"}
 - Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab){:target="_blank"}
+  
+Andere Links:
+- Techzone Image: [Link zur Techzone Developer Image](https://techzone.ibm.com/collection/ibm-watsonxdata-developer-base-image){:target="_blank"}
 - IBM Seismic: [Link zur Seismic](https://ibm.seismic.com){:target="_blank"}
 - IBM Techzone (w3id): [Link zur Techzone](https://techzone.ibm.com){:target="_blank"}
 
