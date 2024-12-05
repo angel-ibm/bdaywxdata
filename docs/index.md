@@ -48,7 +48,7 @@ Stellt sicher, dass euer Netzwerkzugang zu folgenden Domains möglich ist:
 
 **Das Wichtigste:** Hier bekommt Ihr ein System (eine VM aus der TechZone), mit dem Ihr die ganze Übungen durchführen könnt. Es ist aktiv ab 5.12.2024. Passwort: `ibm4badges`)
 
-- Workshop Image: [https://ibm.biz/watsonxgeeks](https://techzone.ibm.com/my/workshops/student/673c95c9d48a532cc36d5e93){:target="_blank"}
+- Workshop Image: [Student Link](https://techzone.ibm.com/my/workshops/student/673c95c9d48a532cc36d5e93){:target="_blank"}
 - Dokumentation für das IBM watsonx.data Development Lab (Version 2.0.2 GA) für die Level 3 Zertifizierung: [Link zur Dokumentation](http://ibm.biz/wxd-lab){:target="_blank"}
 - Passwörter: [VM passwords](https://ibm.github.io/watsonx-data-lab/wxd-reference-passwords/){:target="_blank"}
   
